@@ -1,0 +1,1 @@
+pic_url = "http://cdn.dota2.com/apps/dota2/images/heroes/antimage_sb.png"
