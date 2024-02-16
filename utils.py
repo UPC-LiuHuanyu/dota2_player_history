@@ -4,7 +4,7 @@ import json
 
 API_KEY = "这个需要去steam打开开发者权限. 然后把key放到这里"
 with open("key.json", "r") as f:
-    API_KEY = json.load(f)
+    API_KEY = json.load(f)["key"]
 
 api = dota2api.Initialise(API_KEY)
 
