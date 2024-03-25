@@ -4,7 +4,7 @@ END_MATCH_ID = 7486178491
 MY_ID = 1125973295 # hamasi
 MY_ID = 1035741118 # 借的号
 MY_ID = 117198261 # 大猪
-TM_ID = 317280296
+TM_ID = 486475770
 #
 # print(api.get_player_summaries(185102236))
 # exit(0)
